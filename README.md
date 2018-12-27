@@ -11,3 +11,4 @@ VRBeats
 
 Aerial Strike Ultimate
 
+If any of the google share links don't work, shoot me an email at: maxm081897@gmail.com
