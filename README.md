@@ -6,9 +6,9 @@ Website and github contain most of the relevant projects
 
 https://mhwang55.github.io/
 
+https://gnigami.com/projects
+
 https://github.com/mhwang55
-
-
 
 Javascript project a friend and I made
 
