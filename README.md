@@ -10,7 +10,7 @@ https://gnigami.com/projects
 
 https://github.com/mhwang55
 
-Hexapod project a friend and I made
+Hexapod project a friend and I made (C++)
 
 https://github.com/mhwang55/me110
 
