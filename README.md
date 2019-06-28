@@ -10,6 +10,10 @@ https://gnigami.com/projects
 
 https://github.com/mhwang55
 
+Hexapod project a friend and I made
+
+https://github.com/mhwang55/me110
+
 Javascript project a friend and I made
 
 https://github.com/xrdt/haptic_music
@@ -31,6 +35,8 @@ Projects of interest:
 Haptic Music
 
 VRBeats
+
+ME110 (Hexapod Robot)
 
 Aerial Strike Ultimate
 
